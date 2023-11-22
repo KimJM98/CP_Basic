@@ -1,8 +1,9 @@
 #include"io.h"
 
-void Variable() {
+void Variable() 
+{
     int Number1; // 변수 선언만 함
-    Number1 = 10;
+    Number1 = 10;//초기값 대입
 
     int Number2 = 10; // 변수 선언 및 초기화
 
