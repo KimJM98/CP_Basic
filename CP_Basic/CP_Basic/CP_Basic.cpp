@@ -52,9 +52,32 @@ int main()
     //Sort();
     //Reverse();
 
-    //절대값  구하기
+    // 절대값  구하기
     //cout<< Absolute(-5);
-    TotalScore();
+    
+    // 과재
+    //TotalScore();
+
+    // 포인터 선언
+    //PointerVar();
+    //PointerCalc();
+
+    //포인터와 배열
+    //PointerArray();
+
+    //메모리 할당, 동적 변수 선언
+    //DynamicAlloc();
+    
+    // 동적 배열 선언
+    //DynamicArray();
+    //InputArraySize();
+
+    // Ex04_Ball
+    //InputBall();
+   
+    // Ex05_Dice
+    Dice();
+
 }
 
 

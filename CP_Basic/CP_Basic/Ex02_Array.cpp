@@ -86,8 +86,6 @@ void TotalScore() {
 		cin >> Sco3;
 		cout << Sco1 + Sco2 + Sco3 << "점 입니다.";
 
-		Total =Sco1 + Sco2 + Sco3;
-		cout << Total << endl;
 	}
 
 }
