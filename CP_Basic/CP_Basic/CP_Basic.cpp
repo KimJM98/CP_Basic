@@ -5,7 +5,7 @@
 void DefineFunction();
 
 int main()
-{
+{/*
     // 함수호출
     //CppBasic();
     //Variable();
@@ -76,7 +76,16 @@ int main()
     //InputBall();
    
     // Ex05_Dice
-    Dice();
+    //Dice();
+*/
+    //Class
+    //DefineClass();
+    //PrintPlayer();
+    //PrintAirplane();
+    //DynamicAirplane();
+    
+    // Ex06 Score
+    Score();
 
 }
 
