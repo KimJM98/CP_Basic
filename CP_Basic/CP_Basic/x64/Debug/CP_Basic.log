@@ -1,6 +1,2 @@
 ﻿  CP_Basic.cpp
-  Ex06_Score.cpp
-  Ex06_ScoreMethod.cpp
-C:\Users\addinedu\Documents\CP_Basic\CP_Basic\CP_Basic\Ex06_ScoreMethod.cpp(31,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-  Generating Code...
   CP_Basic.vcxproj -> C:\Users\addinedu\Documents\CP_Basic\CP_Basic\x64\Debug\CP_Basic.exe

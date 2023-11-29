@@ -84,9 +84,26 @@ int main()
     //PrintAirplane();
     //DynamicAirplane();
     
-    // Ex06 Score
-    Score();
+    // Ex06 Score (Class활용)
+    //Score();
+  
+    // Ch14_ArrayClass 배열 클래스
+    //ArrayClass();
 
+    // Ch15_StringClass 배열 클래스
+    //StringClass();
+
+    // Ch16_VectorClass
+    //VectorClass();
+
+    //Ch17_OverlodingClass
+    //OverloadingFunction();
+    
+    //Ex07_Robot
+    //RobotPerfoemance();
+
+    //Ex08_Member
+    MemberS();
 }
 
 
