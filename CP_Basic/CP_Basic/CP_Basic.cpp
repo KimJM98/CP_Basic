@@ -103,7 +103,20 @@ int main()
     //RobotPerfoemance();
 
     //Ex08_Member
-    MemberS();
+    //MemberS();
+
+    //상속선언
+    //Inheritance();
+    //Ch18-1
+    //Inherit();
+    //Ch19
+    //ClassKeyword();
+    //Ch20_Type 형변환
+    //Type();
+    //Ch21_Virtual
+    //Virtual();
+    Diet();
+
 }
 
 
