@@ -115,7 +115,11 @@ int main()
     //Type();
     //Ch21_Virtual
     //Virtual();
-    Diet();
+    
+    //Diet();
+
+    //Ex09_Person
+    PrintStudent();
 
 }
 

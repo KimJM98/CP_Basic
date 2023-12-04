@@ -69,3 +69,4 @@ void ClassKeyword();
 void Type();
 void Virtual();
 void Diet();
+void PrintStudent();

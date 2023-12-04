@@ -170,6 +170,8 @@
     <ClCompile Include="Ex06_ScoreMethod.cpp" />
     <ClCompile Include="Ex08-1_MemberMethod.cpp" />
     <ClCompile Include="Ex08_Member.cpp" />
+    <ClCompile Include="Ex09_Person.cpp" />
+    <ClCompile Include="Ex09_PersonMethod.cpp" />
     <ClCompile Include="Ex0_Diet.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -184,6 +186,7 @@
     <ClInclude Include="Ex06_ScoreClass.h" />
     <ClInclude Include="Ex07_RobotClass.h" />
     <ClInclude Include="Ex08_MemberClass.h" />
+    <ClInclude Include="Ex09_Person.h" />
     <ClInclude Include="io.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
